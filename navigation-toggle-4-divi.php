@@ -61,7 +61,7 @@ function clx_dnt_input() {
 function clx_dnt_page() {
     ?>
   <div class="wrap">
-    <h1>Divi Navigation Toggle</h1>
+    <h1>Navigation Toggle 4 Divi</h1>
     <form method="post" action="options.php">
         <?php
         settings_fields("setup");

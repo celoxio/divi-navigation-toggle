@@ -4,7 +4,7 @@
 
 ##Info
 
-This WordPress plugin makes the navigation menu collapse automatically when the user touched outside of it's bounds. This extension will not impact the performance of your page. Minified and lightweight, only 3 KB.
+This WordPress plugin makes the navigation menu collapse automatically when the user touched outside of it's bounds. This extension will not impact the performance of your page. Minified and lightweight, only 2 KB.
 
 
 ##Developer
