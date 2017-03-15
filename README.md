@@ -1,18 +1,15 @@
-#navigation-toggle-4-divi
+# navigation-toggle-4-divi
 
-#####Toggle the navigation menu when the user clicks outside.
 
-##Info
+##### Toggle the navigation menu when the user clicks outside.
+
+
+## Info
 
 This WordPress plugin makes the navigation menu collapse automatically when the user touched outside of it's bounds. This extension will not impact the performance of your page. Minified and lightweight, only 2 KB.
 
 
-##Developer
- 
-Martin Pfeffer - [https://celox.io](https://celox.io)
-
-
-##License
+## License
 
 Copyright 2017 Martin Pfeffer
 
