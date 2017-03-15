@@ -8,6 +8,8 @@
 
 This WordPress plugin makes the navigation menu collapse automatically when the user touched outside of it's bounds. This extension will not impact the performance of your page. Minified and lightweight, only 2 KB.
 
+Plugin page on [WordPress](https://wordpress.org/plugins/navigation-toggle-4-divi/)
+
 
 ## License
 
